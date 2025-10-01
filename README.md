@@ -22,26 +22,6 @@ O site é **responsivo**, tem fundo animado e foi pensado para destacar minhas p
 
 ---
 
-##  Estrutura do Projeto
-
-portifolio_web/
-│── app/
-│ ├── public/ # imagens (logo, foto, etc.)
-│ ├── src/ # código React
-│ │ ├── components/ # componentes reutilizáveis
-│ │ ├── PortfolioNicolas.jsx
-│ │ └── main.jsx
-│ ├── index.html
-│ ├── package.json
-│ └── tailwind.config.cjs
-│
-│── docker-compose.yml # dev local opcional
-│── Dockerfile # dev local opcional
-│── README.md
-
-
----
-
 ##  Como Rodar Localmente
 
 1. Clone o repositório:
