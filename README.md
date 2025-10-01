@@ -41,23 +41,10 @@ Acesse no navegador:
 
     http://localhost:5173
 
-🌐 Deploy no Netlify
 
-    Conecte este repositório ao Netlify.
+## Contato
 
-    Configure:
-
-        Base directory: app
-
-        Build command: npm run build
-
-        Publish directory: dist
-
-    Deploy automático a cada git push.
-
-📞 Contato
-
-    Email: nicholashyago@gmail.com
+Email: nicholashyago@gmail.com
 
 LinkedIn: linkedin.com/in/nicolas-y-p-souza
 
