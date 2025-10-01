@@ -25,17 +25,21 @@ O site é **responsivo**, tem fundo animado e foi pensado para destacar minhas p
 ##  Como Rodar Localmente
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/NicolasYPS/portifolio_web.git
-   cd portifolio_web/app
 
-    Instale as dependências:
+```bash
+git clone https://github.com/NicolasYPS/portifolio_web.git
+cd portifolio_web/app
+```
+ Instale as dependências:
 
+```bash
 npm install
+```
 
 Execute em modo desenvolvimento:
-
+```bash
 npm run dev
+```
 
 Acesse no navegador:
 
