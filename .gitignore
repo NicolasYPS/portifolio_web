@@ -1,0 +1,11 @@
+.# dependências
+node_modules/
+app/node_modules/
+
+# build
+dist/
+app/dist/
+
+# configs locais
+.env
+*.log
