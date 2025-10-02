@@ -275,7 +275,7 @@ export default function PortfolioNicolas() {
                     }}
                   >
                     <img
-                      src="public/minha_imagem.png"
+                      src="/minha_imagem.png"
                       alt="Nicolas Y P Souza"
                       style={{ width: "100%", height: "100%", objectFit: "cover" }}
                     />
